@@ -3,7 +3,7 @@
 
 
 ## Purpose
-A website that provides information on my and displays my completed projects.
+A website that provides information on me and will display my completed projects as they happen.
 
 ## Built With
 * HTML

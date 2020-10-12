@@ -13,4 +13,4 @@ A website that provides information on my and displays my completed projects.
 
 
 ## Contribution
-Made with 😅 by Michael Spore
+Made with 😅  by Michael Spore

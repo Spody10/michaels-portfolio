@@ -98,7 +98,7 @@ nav ul li a {
 .section-content p {
   line-height: 1.5;
   font-size: medium;
-  text-align: center;
+  text-align: cleft;
   margin-left: 20px;
 }
 
@@ -128,17 +128,17 @@ nav ul li a {
 }
 
 .future-proj-2 {
-  background-image: url(https://placehold.it/200x200);
+  background-image: url("../images/code.jpeg");
   background-size: cover;
 }
 
 .future-proj-3 {
-  background-image: url(https://placehold.it/200x200);
+  background-image: url("../images/brain.jpeg");
   background-size: cover;
 }
 
 .future-proj-4 {
-  background-image: url(https://placehold.it/200x200);
+  background-image: url("../images/learn.jpeg");
   background-size: cover;
 }
 
@@ -150,7 +150,7 @@ nav ul li a {
 .blue-background {
   background-color: var(--teal);
   padding: 20px;
-  width: 75%;
+  width: 70%;
 }
 
 .contact-me .section-content div {

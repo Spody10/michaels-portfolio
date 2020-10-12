@@ -10,7 +10,9 @@ A website that provides information on my and displays my completed projects.
 * CSS
 
 ## Website
+[Webpage](https://spody10.github.io/michaels-portfolio/)
 
-![Michaels Portfolio]/images/michaels-portfolio.png
+![Screenshot](./michaels-portfolio.png)
+
 ## Contribution
 Made with 😅  by Michael Spore

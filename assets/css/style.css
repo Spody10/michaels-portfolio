@@ -57,7 +57,7 @@ nav ul li a {
 }
 
 .hero {
-  background-image: url("../images/fishing_image.jpg");
+  background-image: url("./../images/fishing_image.jpg");
   background-size: cover;
   background-position: 50% 45%;
   height: 200px;

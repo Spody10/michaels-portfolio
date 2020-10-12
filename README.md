@@ -11,6 +11,6 @@ A website that provides information on my and displays my completed projects.
 
 ## Website
 
-
+![Michaels Portfolio]/images/michaels-portfolio.png
 ## Contribution
 Made with 😅  by Michael Spore

@@ -3,7 +3,7 @@
 
 
 ## Purpose
-A website that provides information on my and displays my completed projects.
+A website that provides information on me and will display my completed projects as they happen.
 
 ## Built With
 * HTML
@@ -12,7 +12,7 @@ A website that provides information on my and displays my completed projects.
 ## Website
 [Webpage](https://spody10.github.io/michaels-portfolio/)
 
-![Screenshot](.././michaels-portfolio.png)
+![Screenshot](./michaels-portfolio.png)
 
 ## Contribution
 Made with 😅  by Michael Spore

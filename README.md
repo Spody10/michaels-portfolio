@@ -1,18 +1,20 @@
 # michaels-portfolio
 
-
-
 ## Purpose
+
 A website that provides information on me and will display my completed projects as they happen.
 
 ## Built With
-* HTML
-* CSS
+
+- HTML
+- CSS
 
 ## Website
+
 [Webpage](https://spody10.github.io/michaels-portfolio/)
 
-![Screenshot](./michaels-portfolio.png)
+![Screenshot](../images/updated-portfolio.png)
 
 ## Contribution
-Made with 😅  by Michael Spore
+
+Made with 😅 by Michael Spore

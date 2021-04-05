@@ -13,7 +13,7 @@ A website that provides information on me and will display my completed projects
 
 [Webpage](https://spody10.github.io/michaels-portfolio/)
 
-![Screenshot](../images/updated-portfolio.png)
+![Screenshot](/assets/images/updated-portfolio.png)
 
 ## Contribution
 

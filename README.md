@@ -11,9 +11,9 @@ A website that provides information on me and will display my completed projects
 
 ## Website
 
-[Webpage](https://spody10.github.io/michaels-portfolio/)
+https://spody10.github.io/michaels-portfolio/
 
-![Screenshot](/assets/images/updated-portfolio.png)
+![Screenshot](/assets/images/portfolio-ss.png)
 
 ## Contribution
 
